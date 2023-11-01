@@ -12,12 +12,65 @@ Hi this is Yunshen Bai. This is my work on problem 1
 This is my resume
 
 ### EDUCATION BACKGROUND
-- **Columbia University **                                                         	                                                                 
-Master of Science in Biostatistics, Theory & Methods track
+**Columbia University **                                                         	                                                                 
+$\quad$Master of Science in Biostatistics
+$\quad$Theory & Methods track
 
-- **Beijing Normal University - Hong Kong Baptist University United International College**  	
-Bachelor of Statistics      
-Major: Statistics              
-Cumulative GPA: 3.45/4  
+**Beijing Normal University - Hong Kong Baptist University United International College**  	
+$\quad$Bachelor of Statistics      
+$\quad$Major: Statistics              
+$\quad$Cumulative GPA: 3.45/4  
+
+### CERTIFICATES & SKILLS
+**Programming languages**: C, R (tidyverse, ggplot2, caret, glmnet), MATLAB, Python (Pandas, Numpy)   
+**Technical skills**: Generalized linear model, Nonparametric regression, Categorical data analysis, Bayes model, Hypothesis Testing, Data visualization, Data manipulation, Correlation analysis, Decision tree
+**Tools**: RStudio, Jupyter Notebook, GitHub, Latex, MS Office (Word, Excel, PowerPoint) 
+**Language Proficiency**: English (Proficient); Chinese (Proficient)
+**GitHub Profile**: https://github.com/baiyunshen2001
+
+
+### RESEARCH EXPERIENCE
+**Columbia University —— Research Assistant**  
+Aggregative trans-eQTL analysis   
+*Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis. We would like to uncover genetic regulation of trans-networks relevant to neurodegenerative disorders, particularly Alzheimer's disease.*  
+   
+   
+**UIC -- Final Year Project**  
+RP-Based Bootstrap Sampling and Its Application  
+*This FYP proposes a new method named RP-based Bootstrap sampling, that aims to enhance the sampling accuracy under the Weibull distribution.*  
+  
+**UIC -- Teaching Assistant**  
+Modified SEIR model  
+*This project focus on improving the basic SEIR model to better suit the present situation.*
+
+### WORK EXPERIENCE
+
+**Beijing Kaloke Consulting Co., Ltd. (Data Analyst) **
+
+- Wrote and submitted analysis reports, assisting in maintaining internal data of our company, and monitoring and solving problems
+
+-	Supported specific research about industries, users, and products by collecting and organizing materials
+
+-	Met the team members’ needs for data query, analysis, and export
+
+-	Handled and managed daily communication and relationship maintenance with partners  
+  
+  
+  
+**Xinyun Information Technology Ltd. (Data Analysis Assistant)  **
+
+-	Assisted analysts, based on the data platform, in updating and maintaining the collection and management of multi-dimensional data on industries, regions and organizations required by the business in a timely manner and completed the delivery and application of the data
+
+-	Integrated various statistical data analysis reports and provided analysis reports with comprehensive analysis
+
+-	Assisted with data cleaning activities and data quality analysis
+
+### HONORS & AWARDS
+Second Prize of Guangdong Province, National Student Mathematical Modelling Competition
+
+### EXTRACURRICULAR ACTIVITIES
+**UIC Academic Tutorial Group**
+
+-	Responsible for event planning, process arrangement and other related matters as a member of the Administration Department. Coordinated with other departments for activities and logistics to ensure smooth running of work; maintained all documents and materials related to work. Sorted out administrative matters, took charge of the division and sign-in of students after registration, collected feedback from students and tutors 
 
 

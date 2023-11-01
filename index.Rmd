@@ -6,11 +6,14 @@ output:
     toc_float: true
     theme: cerulean
 ---
-Hi this is Yunshen Bai. Welcome to the Homework 4. Which problem you want to visit
+Hi this is Yunshen Bai. Welcome to my work of the Homework 4. Please select the problem you want to visit
+
+<img src="batmansmile.jpg" style="width:20%">
+
 
 # Problem 1
 
-please visit [here](problem1.html)
+Please visit [here](problem1.html)
 
 # Problem 2
-please visit [here](problem2.html)
+Please visit [here](problem2.html)
