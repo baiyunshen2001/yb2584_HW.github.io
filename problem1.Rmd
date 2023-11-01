@@ -23,9 +23,9 @@ $\quad$Cumulative GPA: 3.45/4
 
 ### CERTIFICATES & SKILLS
 **Programming languages**: C, R (tidyverse, ggplot2, caret, glmnet), MATLAB, Python (Pandas, Numpy)   
-**Technical skills**: Generalized linear model, Nonparametric regression, Categorical data analysis, Bayes model, Hypothesis Testing, Data visualization, Data manipulation, Correlation analysis, Decision tree
-**Tools**: RStudio, Jupyter Notebook, GitHub, Latex, MS Office (Word, Excel, PowerPoint) 
-**Language Proficiency**: English (Proficient); Chinese (Proficient)
+**Technical skills**: Generalized linear model, Nonparametric regression, Categorical data analysis, Bayes model, Hypothesis Testing, Data visualization, Data manipulation, Correlation analysis, Decision tree  
+**Tools**: RStudio, Jupyter Notebook, GitHub, Latex, MS Office (Word, Excel, PowerPoint)   
+**Language Proficiency**: English (Proficient); Chinese (Proficient)  
 **GitHub Profile**: https://github.com/baiyunshen2001
 
 
