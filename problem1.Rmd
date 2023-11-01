@@ -1,0 +1,23 @@
+---
+title: "Homework 4"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+Hi this is Yunshen Bai. This is my work on problem 1
+
+## Problem 1
+This is my resume
+
+### EDUCATION BACKGROUND
+- **Columbia University **                                                         	                                                                 
+Master of Science in Biostatistics, Theory & Methods track
+
+- **Beijing Normal University - Hong Kong Baptist University United International College**  	
+Bachelor of Statistics      
+Major: Statistics              
+Cumulative GPA: 3.45/4  
+
+
