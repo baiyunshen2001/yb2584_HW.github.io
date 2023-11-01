@@ -8,7 +8,7 @@ output:
 ---
 Hi this is Yunshen Bai. Welcome to my work of the Homework 4. Please select the problem you want to visit
 
-<img src="batmansmile.jpg" style="width:20%">
+<img src="./image/batmansmile.jpg" style="width:20%">
 
 
 # Problem 1
