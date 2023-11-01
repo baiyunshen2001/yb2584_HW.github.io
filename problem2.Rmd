@@ -4,10 +4,15 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: sandstone
 ---
-Hi this is Yunshen Bai. Welcome to the Homework 4. Which problem you want to visit
+Hi this is Yunshen Bai. Welcome to the my work of Homework 4. 
 
-# Problem 1
+# Problem 2
+```{r,message=FALSE,warning=FALSE}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+data(rest_inspec)
+```
 
-please visit [here](problem1.html)

@@ -4,7 +4,7 @@ output:
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    theme: sandstone
 ---
 Hi this is Yunshen Bai. This is my work on problem 1
 

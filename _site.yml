@@ -9,4 +9,4 @@ navbar:
       href: https://github.com/baiyunshen2001
 output:
   html_document:
-    theme: cerulean
+    theme: sandstone
