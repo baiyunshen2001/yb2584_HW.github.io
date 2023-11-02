@@ -40,7 +40,7 @@ rest_inspec|>
 From above bar chart, we can know that Basque restaurants reported the least violations and Chinese restaurants reported the most violations.
 
 Finally, we want to know the relationship between zipcode and score.
-```{r}
+```{r,message=FALSE}
 rest_inspec|>
   drop_na(score,zipcode)|>
   group_by(zipcode)|>
