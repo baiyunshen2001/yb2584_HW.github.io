@@ -6,9 +6,11 @@ output:
     toc_float: true
     theme: sandstone
 ---
-Hi, this is Yunshen Bai. In this part, we will use NYC Restaurant Inspections dataset, and use different kind of plot to show the pattern in this dataset.
+## Problem 2
 
-# Problem 2
+Hi, this is Yunshen Bai. In this part, we will use NYC Restaurant Inspections dataset, and use different kind of plots to show the pattern in this dataset.
+
+
 ```{r,message=FALSE,warning=FALSE}
 library(tidyverse)
 library(p8105.datasets)
@@ -37,9 +39,13 @@ rest_inspec|>
 ```
 From above bar chart, we can know that Basque restaurants reported the least violations and Chinese restaurants reported the most violations.
 
-Finally, we want to know the relationship between building and score.
+Finally, we want to know the relationship between zipcode and score.
 ```{r}
-
+rest_inspec|>
+  drop_na(score,zipcode)|>
+  group_by(zipcode)|>
+  summarise(score=mean(score))|>
+  plot_ly(x=~zipcode,y=~score,color =~score,alpha = 0.5)
 ```
 
 

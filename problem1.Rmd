@@ -6,14 +6,20 @@ output:
     toc_float: true
     theme: sandstone
 ---
-Hi this is Yunshen Bai. This is my work on problem 1
-
 ## Problem 1
+Hi this is Yunshen Bai. In this part you will see my resume
+
+
 This is my resume
 
+---
+
 ### EDUCATION BACKGROUND
+
+---
+
 **Columbia University **                                                         	                                                                 
-$\quad$Master of Science in Biostatistics
+$\quad$Master of Science in Biostatistics  
 $\quad$Theory & Methods track
 
 **Beijing Normal University - Hong Kong Baptist University United International College**  	
@@ -21,15 +27,24 @@ $\quad$Bachelor of Statistics
 $\quad$Major: Statistics              
 $\quad$Cumulative GPA: 3.45/4  
 
+---
+
 ### CERTIFICATES & SKILLS
+
+---
+
 **Programming languages**: C, R (tidyverse, ggplot2, caret, glmnet), MATLAB, Python (Pandas, Numpy)   
 **Technical skills**: Generalized linear model, Nonparametric regression, Categorical data analysis, Bayes model, Hypothesis Testing, Data visualization, Data manipulation, Correlation analysis, Decision tree  
 **Tools**: RStudio, Jupyter Notebook, GitHub, Latex, MS Office (Word, Excel, PowerPoint)   
 **Language Proficiency**: English (Proficient); Chinese (Proficient)  
 **GitHub Profile**: https://github.com/baiyunshen2001
 
+---
 
 ### RESEARCH EXPERIENCE
+
+---
+
 **Columbia University —— Research Assistant**  
 Aggregative trans-eQTL analysis   
 *Simulation study for a new method to discover trans-regulatory network from quantitative trait loci analysis. We would like to uncover genetic regulation of trans-networks relevant to neurodegenerative disorders, particularly Alzheimer's disease.*  
@@ -43,7 +58,11 @@ RP-Based Bootstrap Sampling and Its Application
 Modified SEIR model  
 *This project focus on improving the basic SEIR model to better suit the present situation.*
 
+---
+
 ### WORK EXPERIENCE
+
+---
 
 **Beijing Kaloke Consulting Co., Ltd. (Data Analyst) **
 
@@ -65,10 +84,20 @@ Modified SEIR model
 
 -	Assisted with data cleaning activities and data quality analysis
 
+---
+
 ### HONORS & AWARDS
+
+---
+
 Second Prize of Guangdong Province, National Student Mathematical Modelling Competition
 
+---
+
 ### EXTRACURRICULAR ACTIVITIES
+
+---
+
 **UIC Academic Tutorial Group**
 
 -	Responsible for event planning, process arrangement and other related matters as a member of the Administration Department. Coordinated with other departments for activities and logistics to ensure smooth running of work; maintained all documents and materials related to work. Sorted out administrative matters, took charge of the division and sign-in of students after registration, collected feedback from students and tutors 
