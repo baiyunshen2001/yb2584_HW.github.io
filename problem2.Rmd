@@ -6,7 +6,7 @@ output:
     toc_float: true
     theme: sandstone
 ---
-Hi this is Yunshen Bai. Welcome to the my work of Homework 4. 
+Hi, this is Yunshen Bai. In this part, we will use NYC Restaurant Inspections dataset, and use different kind of plot to show the pattern in this dataset.
 
 # Problem 2
 ```{r,message=FALSE,warning=FALSE}
@@ -15,4 +15,32 @@ library(p8105.datasets)
 library(plotly)
 data(rest_inspec)
 ```
+
+First, We create a box plot to show the distribution of score in five boroughs.
+
+```{r}
+rest_inspec|>
+  drop_na(score,boro)|>
+  filter(boro!="Missing")|>
+  mutate(boro=fct_reorder(boro,score))|>
+  plot_ly(y=~score,color = ~boro,type = "box",colors = "viridis")
+```
+From this box plox, the score in five boroughs are almost same. Therefore, the food safety status of the five boroughs is roughly the same.
+
+Next, we want to know what kind of restaurants reported the least and the most violations. 
+```{r}
+rest_inspec|>
+  drop_na(score)|>
+  count(cuisine_description)|>
+  mutate(cuisine_description=fct_reorder(cuisine_description,n))|>
+  plot_ly(x=~cuisine_description,y=~n,color = ~cuisine_description,type = "bar",colors = "viridis")
+```
+From above bar chart, we can know that Basque restaurants reported the least violations and Chinese restaurants reported the most violations.
+
+Finally, we want to know the relationship between building and score.
+```{r}
+
+```
+
+
 
