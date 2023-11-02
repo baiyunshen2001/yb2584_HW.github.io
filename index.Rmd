@@ -6,7 +6,9 @@ output:
     toc_float: true
     theme: sandstone
 ---
-Hi this is Yunshen Bai. Welcome to my work of the Homework 4. In this project, I will upload my resume so you could see my academic and professional experience. Also, I will use NYC Restaurant Inspections dataset, and use different kind of plots to show the pattern in this dataset. Please select the part you want to visit
+Hi this is Yunshen Bai. Welcome to my work of the Homework 4. In this project, I will upload my resume so you could see my academic and professional experience. Also, I will use NYC Restaurant Inspections dataset, and use different kind of plots to show the pattern in this dataset. 
+
+Please select the part you want to visit
 
 <img src="./image/batmansmile.jpg" style="width:20%">
 
